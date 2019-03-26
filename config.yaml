@@ -1,0 +1,15 @@
+token: <token>
+
+#seconds
+max_download_time: 30
+
+#minutes
+max_video_duration: 60
+
+#tgbotapi logger
+debug: false
+
+#custom logger
+logging: true
+
+bot_username: <username>
